@@ -1,0 +1,20 @@
+<svg width="40.000000" height="40.000000" viewBox="0 0 40 40" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<desc>
+			Created with Pixso.
+	</desc>
+	<defs>
+		<clipPath id="clip2_12">
+			<rect id="stackoverflow" width="24.000000" height="24.000000" transform="translate(8.000000 8.000000)" fill="white" fill-opacity="0"/>
+		</clipPath>
+		<clipPath id="clip3_367">
+			<rect id="Icons / Social" width="40.000000" height="40.000000" fill="white" fill-opacity="0"/>
+		</clipPath>
+	</defs>
+	<g clip-path="url(#clip3_367)">
+		<rect id="stackoverflow" width="24.000000" height="24.000000" transform="translate(8.000000 8.000000)" fill="#FFFFFF" fill-opacity="0"/>
+		<g clip-path="url(#clip2_12)">
+			<path id="Vector" d="M27.12 17.8L21.73 9.97L20.05 11.11L25.43 18.94L27.12 17.8L27.12 17.8ZM25.1 19.22L16.87 14.4L15.83 16.15L24.06 20.96L25.1 19.22L25.1 19.22ZM23.9 21.53L14.67 19.07L14.14 21.03L23.37 23.49L23.9 21.53L23.9 21.53ZM23.27 24.17L13.75 23.3L13.57 25.32L23.08 26.19L23.27 24.17ZM29.5 17.33L27.86 8L25.85 8.34L27.48 17.68L29.5 17.33L29.5 17.33ZM23.04 28.79L13.48 28.8L13.48 26.77L23.04 26.77L23.04 28.79Z" fill="#FF810F" fill-opacity="1.000000" fill-rule="evenodd"/>
+			<path id="Vector" d="M24.66 22.13L24.66 30.41L12.13 30.41L12.13 22.13L10.49 22.13L10.49 32L26.29 32L26.29 22.13L24.66 22.13Z" fill="#BEBCBC" fill-opacity="1.000000" fill-rule="evenodd"/>
+		</g>
+	</g>
+</svg>
